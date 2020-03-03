@@ -1,27 +1,29 @@
 {
   "valentinoMissione": {
-    "ddt": 234,
-    "qty": 3,
-    "fornitore": {
-		"id": "20190010-c38e9395-27c6-4053-b9a7-567db09eca09",
-		"creationDate": 1547136555306,
-		"lastModified": null,
-		"code": "SUPPLIER_0000049562",
-		"syncCode": "SUPPLIER_0000049562",
-		"description": "FONIX MMK NONPROFIT ES KOZHASZNU KF",
-		"address": "VIA SZOLOHEGYI, 8, BUDAJENO - PEST, 2093",
-		"hierarchy": {"id": "20150253-3e4ca33e-0127-4270-bb60-c5f925b97b92", "creationDate": 1441875684052, "lastModified": null},
-		"id": "20150253-3e4ca33e-0127-4270-bb60-c5f925b97b92",
-		"creationDate": 1441875684052,
-		"lastModified": null,
-		"code": "vfg",
-		"description": "Valentino Fashion Group",
-		"parent": null,
-		"storeType": "SUPPLIER",
-		"attributes": {"LAND1": "HU", "NAME1": "FONIX MMK NONPROFIT ES KOZHASZNU KF"},
-		"LAND1": "HU",
-		"NAME1": "FONIX MMK NONPROFIT ES KOZHASZNU KF",
-		"externalCode": "0000049562"
-	}
+    "valentinoMissione": {
+      "ddt": 234,
+      "qty": 3,
+      "fornitore": {
+        "id": "20190010-c38e9395-27c6-4053-b9a7-567db09eca09",
+        "creationDate": 1547136555306,
+        "lastModified": null,
+        "code": "SUPPLIER_0000049562",
+        "syncCode": "SUPPLIER_0000049562",
+        "description": "FONIX MMK NONPROFIT ES KOZHASZNU KF",
+        "address": "VIA SZOLOHEGYI, 8, BUDAJENO - PEST, 2093",
+        "hierarchy": {"id": "20150253-3e4ca33e-0127-4270-bb60-c5f925b97b92", "creationDate": 1441875684052, "lastModified": null},
+        "id": "20150253-3e4ca33e-0127-4270-bb60-c5f925b97b92",
+        "creationDate": 1441875684052,
+        "lastModified": null,
+        "code": "vfg",
+        "description": "Valentino Fashion Group",
+        "parent": null,
+        "storeType": "SUPPLIER",
+        "attributes": {"LAND1": "HU", "NAME1": "FONIX MMK NONPROFIT ES KOZHASZNU KF"},
+        "LAND1": "HU",
+        "NAME1": "FONIX MMK NONPROFIT ES KOZHASZNU KF",
+        "externalCode": "0000049562"
+      }
+    }
   }
 }
