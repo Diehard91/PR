@@ -1,6 +1,5 @@
 {
   "valentinoMissione": {
-    "valentinoMissione": {
       "ddt": 234,
       "qty": 3,
       "fornitore": {
@@ -23,7 +22,6 @@
         "LAND1": "HU",
         "NAME1": "FONIX MMK NONPROFIT ES KOZHASZNU KF",
         "externalCode": "0000049562"
-      }
     }
   }
 }
